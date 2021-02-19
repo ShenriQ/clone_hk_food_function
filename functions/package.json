@@ -15,6 +15,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "blueimp-md5": "^2.18.0",
+    "cors": "^2.8.5",
     "firebase-admin": "^9.2.0",
     "firebase-functions": "^3.11.0",
     "lodash": "^4.17.20",
